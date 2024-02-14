@@ -8,6 +8,7 @@ This library was named after the placeholder name for our developmental python r
 
 * Windows 10+ (Supported for WINDOWS ONLY)
 * Python 3.7+
+* RECOMMENDED: Anaconda/Miniconda or some other virtual environment to isolate terrance from your base python installation
 
 ## Install
 
@@ -17,4 +18,4 @@ You are now good to go!
 
 ## Using
 
-Just run `python -m terrance` and you should enter the terminal GUI.
+Just run `python -m terrance` or `terrance` and you should enter the terminal GUI.
